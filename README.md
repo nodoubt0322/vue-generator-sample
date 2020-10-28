@@ -2,6 +2,7 @@
 
 ## generate component
 ```
+
 npm run new
 ```
 
